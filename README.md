@@ -1,4 +1,4 @@
-# aula-git
+# aula-git - TCG-1B
 Este repositório contém os arquivos utilizados para a aula prática de git. Aplicando os conceitos na prática!
 
 ## Texto
